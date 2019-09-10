@@ -12,6 +12,8 @@ andre-miranda-website/coverage
 andre-miranda-website/build
 
 # misc
+.DS_Store
+.idea/
 andre-miranda-website/.DS_Store
 andre-miranda-website/.env.local
 andre-miranda-website/.env.development.local
