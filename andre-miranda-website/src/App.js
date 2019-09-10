@@ -1,13 +1,13 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+
+import Layout from './hoc/Layout/Layout';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-            <p>Work in Progress!</p>
-      </header>
+    <div>
+        <Layout>
+          <p>Work in Progress!</p>}
+        </Layout>
     </div>
   );
 }
