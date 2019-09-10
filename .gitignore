@@ -1,0 +1,25 @@
+# ---- React app ignore structure ----
+
+# dependencies
+andre-miranda-website/node_modules
+andre-miranda-website/.pnp
+andre-miranda-website/.pnp.js
+
+# testing
+andre-miranda-website/coverage
+
+# production
+andre-miranda-website/build
+
+# misc
+andre-miranda-website/.DS_Store
+andre-miranda-website/.env.local
+andre-miranda-website/.env.development.local
+andre-miranda-website/.env.test.local
+andre-miranda-website/.env.production.local
+
+andre-miranda-website/npm-debug.log*
+andre-miranda-website/yarn-debug.log*
+andre-miranda-website/yarn-error.log*
+
+# -----------
