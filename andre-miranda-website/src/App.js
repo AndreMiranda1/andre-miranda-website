@@ -1,4 +1,5 @@
 import React from 'react';
+import { Route } from 'react-router-dom';
 
 import Layout from './hoc/Layout/Layout';
 
@@ -6,7 +7,7 @@ function App() {
   return (
     <div>
         <Layout>
-          <p>Work in Progress!</p>}
+          <Route path="/" render={() => <p>Work in Progress!</p>} />
         </Layout>
     </div>
   );

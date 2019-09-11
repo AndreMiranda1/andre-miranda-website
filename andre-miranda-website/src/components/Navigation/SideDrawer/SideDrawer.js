@@ -12,12 +12,9 @@ const SideDrawer = (props) => {
   }
 
   return (
-    <div>
+    <div onClick={props.closed}>
       {props.show ? <div className={classes.Backdrop} onClick={props.clicked}></div> : null}
       <div className={attachedClasses.join(' ')}>
-        <div className={classes.Logo}>
-          something here
-        </div>
         <nav>
           <NavigationItems />
         </nav>
