@@ -1,7 +1,7 @@
 .NavigationItem {
   margin: 10px 0;
   box-sizing: border-box;
-  display: block;
+  display: inline-block;
   width: 100%;
 }
 
@@ -39,7 +39,7 @@
   .NavigationItem a:active,
   .NavigationItem a.active {
     background-color: #e6e6e6;
-    border-bottom: 4px solid #50269e;
+    border-bottom: 4px solid #8f3bc4;
     color: black;
   }
 }

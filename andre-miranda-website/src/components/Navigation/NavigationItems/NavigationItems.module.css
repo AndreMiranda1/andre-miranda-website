@@ -9,7 +9,8 @@
 }
 
 @media (min-width: 500px) {
- .NavigationItems {
-   flex-flow: row;
- }
+   .NavigationItems {
+     flex-flow: row;
+     text-align: justify;
+   }
 }
