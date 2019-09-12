@@ -12,7 +12,7 @@ const navigationItems = (props) => (
     <NavigationItem link="/professional-experience">Professional Experience</NavigationItem>
     <NavigationItem link="/backgorund">Background</NavigationItem>
     <NavigationItem link="/personal-projects">Personal Projects</NavigationItem>
-    <NavigationItem link="/contact">Contact me</NavigationItem>
+    <NavigationItem link="/find-me">Find me</NavigationItem>
   </ul>
 
 );

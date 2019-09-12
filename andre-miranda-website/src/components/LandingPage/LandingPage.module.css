@@ -5,17 +5,44 @@
 }
 
 .AndreIntro {
-  height: 100%;
-  margin-left: 12%;
-  margin-right: 12%;
-  padding: 0;
-  text-align: justify;
+  margin: 0 15px 0 15px;
+  text-align: center;
 }
 .AndreIntro img {
-  padding: 0;
-  display: block;
-  margin: 0 auto;
+  display: inline-block;
   max-height: 300px;
   max-width: 100%;
   border-radius: 8px;
+}
+.AndreIntro div {
+  display: block;
+  text-align: justify;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.Link {
+  color: black;
+}
+
+@media (min-width: 900px) {
+  .Wrapper {
+    text-align: center;
+  }
+  .AndreIntro {
+    overflow: hidden;
+    display: inline-block;
+    width: 850px;
+  }
+  .AndreIntro img {
+    max-height: 400px;
+    float: left;
+    margin-right: 10%;
+  }
+  .AndreIntro div {
+    text-align: justify;
+    vertical-align: middle;
+    padding-top: 15px;
+    max-width: none;
+  }
 }
