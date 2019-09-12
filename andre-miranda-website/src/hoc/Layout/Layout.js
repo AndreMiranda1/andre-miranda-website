@@ -22,7 +22,7 @@ const Layout = props => {
       <SideDrawer
         open={showSideDrawer}
         closed={sideDrawerClosedHandler} />
-      <main className={classes.Content}>
+      <main className={classes.Content} onClick={sideDrawerClosedHandler}>
         {props.children}
       </main>
     </div>
