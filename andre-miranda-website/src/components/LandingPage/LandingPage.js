@@ -11,16 +11,16 @@ const LandingPage = props => {
         <h2 className={classes.Header}>André Miranda</h2>
         <div className={classes.AndreIntro}>
           <img src={AndreImage} alt="AndreImage" />
-          <div>
-            <p>Hey there! My name is André Miranda and I'm a Software Developer.</p>
+          <span>
+            <p>Hey there! My name is André Miranda and I'm a Software Developer and Problem Solver.</p>
             <p>Welcome to my page, here you'll find some information about me, what I've been doing and latest projects.</p>
-            <p>If you're looking for a resourceful Full Stack Engineer to help you solving your problems,
+            <p>If you're looking for a resourceful Full Stack Engineer with an Analytics background to help you solving your problems,
              implementing your ideas and make things happen you should stick arround!</p>
             <NavLink className={classes.Link}
                     to="/find-me">
                     Here's how you can reach me.
             </NavLink>
-          </div>
+          </span>
         </div>
     </div>
   );

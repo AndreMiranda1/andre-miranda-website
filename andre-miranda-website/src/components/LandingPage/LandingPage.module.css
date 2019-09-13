@@ -14,7 +14,7 @@
   max-width: 100%;
   border-radius: 8px;
 }
-.AndreIntro div {
+.AndreIntro span {
   display: block;
   text-align: justify;
   max-width: 500px;
@@ -39,7 +39,7 @@
     float: left;
     margin-right: 10%;
   }
-  .AndreIntro div {
+  .AndreIntro span {
     text-align: justify;
     vertical-align: middle;
     padding-top: 15px;

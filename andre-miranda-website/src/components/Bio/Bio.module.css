@@ -1,0 +1,21 @@
+.Bio {
+  text-align: center;
+  margin: 0 15px 0 15px;
+}
+
+.Header {
+  display: block;
+  margin: 10px;
+  padding: 10px;
+}
+
+.BioText {
+  display: block;
+  text-align: justify;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.Link {
+  color: black;
+}
