@@ -27,3 +27,17 @@
 .Link {
   color: black;
 }
+
+@media (min-width: 900px) {
+  .BioText {
+    max-width: 850px;
+  }
+  .BioText img {
+    float: left;
+    max-height: 575px;
+    margin-right: 5%;
+  }
+  .SecondColumn {
+    padding-top: 5px;
+  }
+}
