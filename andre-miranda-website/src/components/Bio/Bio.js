@@ -1,6 +1,7 @@
 import React from 'react';
 
 import classes from './Bio.module.css';
+import GioesImage from '../../assets/gioes.jpg';
 
 
 const Bio = props => {
@@ -29,7 +30,7 @@ const Bio = props => {
              and where I love to be close to Nature. There I use to go fishing in my kayak, hiking,
               and hang with my family and friends.
           </p>
-          <div style={{'margin': '25px'}}> Giões Image here.</div>
+          <img src={GioesImage} alt="GioesImage" />
             <p>
               Sports are also one of my passions, I played basketball for some years including for my University.
               I'm a F.C. Porto fan so I don't miss any game! Besides that, I'm always in for a match, a bike ride or some kayaking.
