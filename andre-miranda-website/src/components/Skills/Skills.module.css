@@ -1,5 +1,27 @@
+.Skills {
+  text-align: center;
+  margin: 0 15px 0 15px;
+}
+
 .Header {
   text-align: center;
   margin: 10px;
   padding: 10px;
+}
+
+.SkillsText {
+  display: block;
+  text-align: justify;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.Navlink {
+  color: black;
+}
+
+@media (min-width: 900px) {
+  .SkillsText {
+    max-width: 850px;
+  }
 }

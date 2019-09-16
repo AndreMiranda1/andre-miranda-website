@@ -1,0 +1,42 @@
+.Wrapper {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.CollapsibleHeader {
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+  padding: 1%;
+  text-align: center;
+  cursor: pointer;
+  background-color: #e6e6e6;
+}
+.CollapsibleHeader h4 {
+  margin: 0 auto;
+  width: auto;
+  height: 50%;
+  vertical-align: middle;
+  display: block;
+}
+
+.CollapsibleContent {
+  border-style: solid;
+  border-width: 2px;
+  border-top: 0px;
+  border-color: black;
+  padding: 1%;
+}
+.CollapsibleContent ul {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+}
+
+@media (min-width: 900px) {
+  .CollapsibleContent ul {
+    columns: 3;
+    -webkit-columns: 3;
+    -moz-columns: 3;
+  }
+}
