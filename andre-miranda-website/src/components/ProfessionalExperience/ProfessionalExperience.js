@@ -4,7 +4,7 @@ import classes from './ProfessionalExperience.module.css';
 import ClevertiImage from '../../assets/cleverti.png';
 import OptylonImage from '../../assets/optylon.jpg';
 import CloserImage from '../../assets/closer.png';
-import BPIImage from '../../assets/bpi.jpg';
+import BPIImage from '../../assets/bpi.png';
 
 
 const ProfessionalExperience = props => {
@@ -12,34 +12,36 @@ const ProfessionalExperience = props => {
   return(
     <div className={classes.ProfessionalExperience}>
       <h2>Professional Experience</h2>
-
-
+      
       <div className={classes.Experience}>
+        <div className={classes.ExperienceImage}>
+          <img src={ClevertiImage} alt="Cleverti" />
+        </div>
         <div className={classes.ExperienceDescription}>
           <h4>Software Developer - Cleverti</h4>
           <span className={classes.DateRange}>April 2019 - Present</span>
           <span className={classes.ExperienceDescriptionText}>
             <p>
               Team Leader in a remote team working on a Copernicus Contributing Mission for the European Space Agency.
-            </p>
-            <p>
+              <br />
+              <br />
               Our team was mainly focused on developing a microservice based system, with a UI
               for data ingestion and monitoring. The system integrated some data processing
               flows with external APIs and FTP servers.
               We adopted the SCRUM methodology.
-            </p>
-            <p>
-            Cleverti promote internal talks on diverse topics, where I presented a few on Machine Learning.
-            One of them is available on <a rel="noopener noreferrer" target="_blank" className={classes.Link} href="https://youtu.be/BiNT_KlTolk">YouTube</a>.
+              <br />
+              <br />
+              Cleverti promote internal talks on diverse topics, where I presented a few on Machine Learning.
+              One of them is available on <a rel="noopener noreferrer" target="_blank" className={classes.Link} href="https://youtu.be/BiNT_KlTolk">YouTube</a>.
             </p>
           </span>
-        </div>
-        <div className={classes.ExperienceImage}>
-          <img src={ClevertiImage} alt="Cleverti" />
         </div>
       </div>
 
       <div className={classes.Experience}>
+        <div className={classes.ExperienceImage}>
+          <img src={OptylonImage} alt="Optylon" />
+        </div>
         <div className={classes.ExperienceDescription}>
           <h4>Data Scientist and Software Developer - Optylon</h4>
           <span className={classes.DateRange}>April 2018 - April 2019</span>
@@ -51,12 +53,12 @@ const ProfessionalExperience = props => {
             </p>
           </span>
         </div>
-        <div className={classes.ExperienceImage}>
-          <img src={OptylonImage} alt="Optylon" />
-        </div>
       </div>
 
       <div className={classes.Experience}>
+        <div className={classes.ExperienceImage}>
+          <img src={CloserImage} alt="Closer" />
+        </div>
         <div className={classes.ExperienceDescription}>
           <h4>Data Scientist - Closer</h4>
           <span className={classes.DateRange}>August 2017 - April 2018</span>
@@ -68,12 +70,12 @@ const ProfessionalExperience = props => {
             </p>
           </span>
         </div>
-        <div className={classes.ExperienceImage}>
-          <img src={CloserImage} alt="Closer" />
-        </div>
       </div>
 
       <div className={classes.Experience}>
+        <div className={classes.ExperienceImage}>
+          <img src={BPIImage} alt="BPI" />
+        </div>
         <div className={classes.ExperienceDescription}>
           <h4>Inter Rating Department - BPI Bank</h4>
           <span className={classes.DateRange}>September 2016 - April 2017</span>
@@ -85,11 +87,8 @@ const ProfessionalExperience = props => {
             </p>
           </span>
         </div>
-        <div className={classes.ExperienceImage}>
-          <img src={BPIImage} alt="BPI" />
-        </div>
       </div>
-      
+
     </div>
   );
 }

@@ -31,27 +31,31 @@
   text-align: justify;
 }
 
-.ExperienceImage {
+.Experience img {
   display: none;
 }
-
 
 @media (min-width: 900px) {
   .Experience {
     max-width: 850px;
-    margin: auto;
-    width: 50%;
-    overflow: hidden;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
   }
-  .ExperienceImage {
-    float:right;
+  .ExperienceImage{
+    margin-right: 5%;
+    height: 150px;
     display: inline-block;
+    vertical-align: middle;
   }
   .Experience img {
-    width: 90px;
+    margin-right: 5%;
+    height: 120px;
+    display: block;
   }
   .ExperienceDescription {
-    display: inline-block;
-    overflow: hidden;
+    display: flex;
+    flex-direction: column;
   }
 }
