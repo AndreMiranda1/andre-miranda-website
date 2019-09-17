@@ -12,7 +12,7 @@ const ProfessionalExperience = props => {
   return(
     <div className={classes.ProfessionalExperience}>
       <h2>Professional Experience</h2>
-      
+
       <div className={classes.Experience}>
         <div className={classes.ExperienceImage}>
           <img src={ClevertiImage} alt="Cleverti" />
@@ -77,7 +77,7 @@ const ProfessionalExperience = props => {
           <img src={BPIImage} alt="BPI" />
         </div>
         <div className={classes.ExperienceDescription}>
-          <h4>Inter Rating Department - BPI Bank</h4>
+          <h4>Intern Rating Department - BPI Bank</h4>
           <span className={classes.DateRange}>September 2016 - April 2017</span>
           <span className={classes.ExperienceDescriptionText}>
             <p>
