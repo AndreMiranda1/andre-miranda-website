@@ -1,0 +1,57 @@
+.ProfessionalExperience {
+  text-align: center;
+  margin: 0px 10px 0 10px;
+}
+.ProfessionalExperience h2 {
+  margin-bottom: 25px;
+}
+.ProfessionalExperience h4 {
+  margin: 2px;
+}
+.ProfessionalExperience a {
+  color: black;
+}
+
+.Experience {
+  border-bottom: 2px solid #e6e6e6;
+  max-width: 500px;
+  margin: 0 auto;
+  margin-top: 15px;
+}
+
+.DateRange {
+  padding-left: 15px;
+  text-decoration: underline;
+}
+
+.ExperienceDescription {
+  text-align: left;
+}
+.ExperienceDescriptionText {
+  text-align: justify;
+}
+
+.ExperienceImage {
+  display: none;
+}
+
+
+@media (min-width: 900px) {
+  .Experience {
+    max-width: 850px;
+    margin: auto;
+    width: 50%;
+    overflow: hidden;
+  }
+  .ExperienceImage {
+    float:right;
+    display: inline-block;
+  }
+  .Experience img {
+    width: 90px;
+  }
+  .ExperienceDescription {
+    display: inline-block;
+    overflow: hidden;
+  }
+}
