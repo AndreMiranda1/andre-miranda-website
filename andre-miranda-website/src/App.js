@@ -8,6 +8,7 @@ import Skills from './components/Skills/Skills';
 import ProfessionalExperience from './components/ProfessionalExperience/ProfessionalExperience';
 import Background from './components/Background/Background';
 import PersonalProjects from './components/PersonalProjects/PersonalProjects';
+import FindMe from './components/FindMe/FindMe';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <Route path="/professional-experience" exact component={ProfessionalExperience} />
         <Route path="/background" exact component={Background} />
         <Route path="/personal-projects" exact component={PersonalProjects} />
+        <Route path="/find-me" exact component={FindMe} />
       </Layout>
   );
 }
