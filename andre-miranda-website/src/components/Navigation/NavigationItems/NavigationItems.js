@@ -11,7 +11,7 @@ const navigationItems = (props) => (
     <NavigationItem link="/bio">Bio</NavigationItem>
     <NavigationItem link="/skills">Skills</NavigationItem>
     <NavigationItem link="/professional-experience">Professional Experience</NavigationItem>
-    <NavigationItem link="/backgorund">Background</NavigationItem>
+    <NavigationItem link="/background">Background</NavigationItem>
     <NavigationItem link="/personal-projects">Personal Projects</NavigationItem>
     <NavigationItem link="/find-me">Find me</NavigationItem>
   </ul>

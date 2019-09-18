@@ -1,0 +1,69 @@
+.Background {
+  text-align: center;
+  margin: 0px 10px 0 10px;
+}
+.Background h2 {
+  margin-bottom: 25px;
+}
+.Background h4 {
+  margin: 2px;
+}
+.Background p {
+  text-align: justify;
+  max-width: 500px;
+  margin: 0 auto;
+}
+.Navlink {
+  color: black;
+}
+.Experience {
+  border-bottom: 2px solid #e6e6e6;
+  max-width: 500px;
+  margin: 0 auto;
+  margin-top:20px;
+}
+
+.DateRange {
+  padding-left: 15px;
+  margin-bottom: 5px;
+  text-decoration: underline;
+}
+
+.ExperienceDescription {
+  text-align: left;
+}
+.ExperienceDescriptionText {
+  text-align: justify;
+}
+
+.Experience img {
+  display: none;
+}
+
+@media (min-width: 900px) {
+  .Experience {
+    max-width: 850px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .ExperienceImage{
+    margin-right: 5%;
+    height: 150px;
+    display: inline-block;
+    vertical-align: middle;
+  }
+  .Experience img {
+    margin-right: 5%;
+    height: 120px;
+    display: block;
+  }
+  .ExperienceDescription {
+    display: flex;
+    flex-direction: column;
+  }
+  .Background p {
+    max-width: 850px;
+  }
+}

@@ -6,6 +6,7 @@ import LandingPage from './components/LandingPage/LandingPage';
 import Bio from './components/Bio/Bio';
 import Skills from './components/Skills/Skills';
 import ProfessionalExperience from './components/ProfessionalExperience/ProfessionalExperience';
+import Background from './components/Background/Background';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Route path="/bio" exact component={Bio} />
         <Route path="/skills" exact component={Skills} />
         <Route path="/professional-experience" exact component={ProfessionalExperience} />
+        <Route path="/background" exact component={Background} />
       </Layout>
   );
 }
