@@ -7,6 +7,7 @@ import Bio from './components/Bio/Bio';
 import Skills from './components/Skills/Skills';
 import ProfessionalExperience from './components/ProfessionalExperience/ProfessionalExperience';
 import Background from './components/Background/Background';
+import PersonalProjects from './components/PersonalProjects/PersonalProjects';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Route path="/skills" exact component={Skills} />
         <Route path="/professional-experience" exact component={ProfessionalExperience} />
         <Route path="/background" exact component={Background} />
+        <Route path="/personal-projects" exact component={PersonalProjects} />
       </Layout>
   );
 }

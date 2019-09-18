@@ -1,0 +1,46 @@
+.PersonalProjects {
+  text-align: center;
+  margin: 0px 10px 0 10px;
+}
+.PersonalProjects h2 {
+  margin-bottom: 25px;
+  margin: 10px;
+  padding: 10px;
+}
+.PersonalProjects p {
+  text-align: justify;
+  max-width: 500px;
+  margin: 0 auto;
+}
+.Project {
+  border-bottom: 2px solid #e6e6e6;
+  max-width: 500px;
+  margin: 0 auto;
+  margin-top:20px;
+}
+.Project h4 {
+  text-align: left;
+  margin-bottom: 0;
+}
+.Project p {
+  text-align: justify;
+  margin-top: 3px;
+  margin-bottom: 12px;
+}
+.Navlink {
+  color: black;
+}
+
+@media (min-width: 900px) {
+  .PersonalProjects {
+    max-width: 850px;
+    margin: 0 auto;
+
+  }
+  .PersonalProjects p {
+    max-width: 850px;
+  }
+  .Project {
+    max-width: 850px;
+  }
+}
