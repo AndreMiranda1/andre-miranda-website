@@ -13,7 +13,7 @@ const PersonalProjects = props => {
       <p>
         Here I'll expose a bit of what I've been doing apart from work.
         <br />
-        Besides what it's here exposed I'm continously learning, right now
+        Besides what it's here exposed I'm continuously learning, right now
         I'm focused on the DevOps field, where I lack some knowledge.
       </p>
 

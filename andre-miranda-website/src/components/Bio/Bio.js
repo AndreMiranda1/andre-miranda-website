@@ -40,7 +40,7 @@ const Bio = props => {
          visiting museums, watching cinema masterpieces, reading good books and follow remarkable artists.
         I'm also a listener of food for thought Podcasts, where new visions of the world
          and perspectives are discussed.
-         I hope that some day soon I'll have the time to explore my own habilities on these subjects.
+         I hope that some day soon I'll have the time to explore my own abilities on these subjects.
       </p>
     </span>
   );

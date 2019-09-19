@@ -20,7 +20,7 @@ const LandingPage = props => {
               <br />
               <br />
               If you're looking for a resourceful Full Stack Engineer with an Analytics background to help you solving your problems,
-             implementing your ideas and make things happen you should stick arround!
+             implementing your ideas and make things happen you should stick around!
            </p>
           <NavLink className={classes.Link}
                   to="/find-me">

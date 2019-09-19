@@ -1,5 +1,5 @@
 import React from 'react';
-import { Route } from 'react-router-dom';
+import { Route, Redirect } from 'react-router-dom';
 
 import Layout from './hoc/Layout/Layout';
 import LandingPage from './components/LandingPage/LandingPage';
@@ -20,6 +20,7 @@ function App() {
         <Route path="/background" exact component={Background} />
         <Route path="/personal-projects" exact component={PersonalProjects} />
         <Route path="/find-me" exact component={FindMe} />
+        <Redirect to="/" />
       </Layout>
   );
 }

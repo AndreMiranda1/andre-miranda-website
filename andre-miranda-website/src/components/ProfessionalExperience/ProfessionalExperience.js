@@ -25,7 +25,7 @@ const ProfessionalExperience = props => {
               Team Leader in a remote team working on a Copernicus Contributing Mission for the European Space Agency.
               <br />
               <br />
-              Our team was mainly focused on developing a microservice based system, with a UI
+              Our team was mainly focused on developing a micro-service based system, with a UI
               for data ingestion and monitoring. The system integrated some data processing
               flows with external APIs and FTP servers.
               We adopted the SCRUM methodology.
@@ -82,7 +82,7 @@ const ProfessionalExperience = props => {
           <span className={classes.ExperienceDescriptionText}>
             <p>
             In my first professional experience, I helped developing a new credit model in Banco BPI.
-            My main taks included developing Models and Algorithms for predicting credit default, Data Analysis
+            My main tasks included developing Models and Algorithms for predicting credit default, Data Analysis
             and Risk Assessment.
             </p>
           </span>
