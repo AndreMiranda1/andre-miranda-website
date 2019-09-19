@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/andre-miranda-website/static/css/main.227b6f03.chunk.css",
-    "main.js": "/andre-miranda-website/static/js/main.abfbb59f.chunk.js",
-    "main.js.map": "/andre-miranda-website/static/js/main.abfbb59f.chunk.js.map",
-    "runtime~main.js": "/andre-miranda-website/static/js/runtime~main.f9d52656.js",
-    "runtime~main.js.map": "/andre-miranda-website/static/js/runtime~main.f9d52656.js.map",
-    "static/js/2.427da545.chunk.js": "/andre-miranda-website/static/js/2.427da545.chunk.js",
-    "static/js/2.427da545.chunk.js.map": "/andre-miranda-website/static/js/2.427da545.chunk.js.map",
-    "index.html": "/andre-miranda-website/index.html",
-    "precache-manifest.8130641af21005e77973e2bf9079a17b.js": "/andre-miranda-website/precache-manifest.8130641af21005e77973e2bf9079a17b.js",
-    "service-worker.js": "/andre-miranda-website/service-worker.js",
-    "static/css/main.227b6f03.chunk.css.map": "/andre-miranda-website/static/css/main.227b6f03.chunk.css.map",
-    "static/media/Andre_Miranda.jpg": "/andre-miranda-website/static/media/Andre_Miranda.88d2674a.jpg",
-    "static/media/bpi.png": "/andre-miranda-website/static/media/bpi.618d6160.png",
-    "static/media/cleverti.png": "/andre-miranda-website/static/media/cleverti.9174068b.png",
-    "static/media/gioes.jpg": "/andre-miranda-website/static/media/gioes.57fddf35.jpg",
-    "static/media/ulisboa.png": "/andre-miranda-website/static/media/ulisboa.333b4673.png"
+    "main.css": "/repository-name/static/css/main.227b6f03.chunk.css",
+    "main.js": "/repository-name/static/js/main.67403a77.chunk.js",
+    "main.js.map": "/repository-name/static/js/main.67403a77.chunk.js.map",
+    "runtime~main.js": "/repository-name/static/js/runtime~main.d1f29bd9.js",
+    "runtime~main.js.map": "/repository-name/static/js/runtime~main.d1f29bd9.js.map",
+    "static/js/2.427da545.chunk.js": "/repository-name/static/js/2.427da545.chunk.js",
+    "static/js/2.427da545.chunk.js.map": "/repository-name/static/js/2.427da545.chunk.js.map",
+    "index.html": "/repository-name/index.html",
+    "precache-manifest.d317e5f9382f30aaffc46242f2dc50b0.js": "/repository-name/precache-manifest.d317e5f9382f30aaffc46242f2dc50b0.js",
+    "service-worker.js": "/repository-name/service-worker.js",
+    "static/css/main.227b6f03.chunk.css.map": "/repository-name/static/css/main.227b6f03.chunk.css.map",
+    "static/media/Andre_Miranda.jpg": "/repository-name/static/media/Andre_Miranda.88d2674a.jpg",
+    "static/media/bpi.png": "/repository-name/static/media/bpi.618d6160.png",
+    "static/media/cleverti.png": "/repository-name/static/media/cleverti.9174068b.png",
+    "static/media/gioes.jpg": "/repository-name/static/media/gioes.57fddf35.jpg",
+    "static/media/ulisboa.png": "/repository-name/static/media/ulisboa.333b4673.png"
   }
 }
