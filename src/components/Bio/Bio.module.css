@@ -31,13 +31,23 @@
 @media (min-width: 900px) {
   .BioText {
     max-width: 850px;
+    content: "";
+    display: table;
+    clear: both;
   }
   .BioText img {
     float: left;
     max-height: 575px;
+    max-width: 95%;
     margin-right: 5%;
   }
+
+  .FirstColumn {
+    float: left;
+    width: 50%;
+  }
   .SecondColumn {
-    padding-top: 3px;
+    float: left;
+    width: 50%;
   }
 }

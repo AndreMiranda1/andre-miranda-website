@@ -8,7 +8,7 @@ import { BrowserRouter } from 'react-router-dom';
 
 
 const app = (
-    <BrowserRouter>
+    <BrowserRouter basename="/andre-miranda-website">
       <App />
     </BrowserRouter>
 );
