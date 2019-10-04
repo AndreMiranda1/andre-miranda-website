@@ -31,7 +31,7 @@ const ProfessionalExperience = props => {
               We adopted the SCRUM methodology.
               <br />
               <br />
-              Cleverti promote internal talks on diverse topics, where I presented a few on Machine Learning.
+              Cleverti promotes internal talks on diverse topics, where I presented a few on Machine Learning.
               One of them is available on <a rel="noopener noreferrer" target="_blank" className={classes.Link} href="https://youtu.be/BiNT_KlTolk">YouTube</a>.
             </p>
           </span>
