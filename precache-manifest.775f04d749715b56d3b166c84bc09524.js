@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef68d0f36b051dc72419559f2b7a6994",
+    "revision": "cb8ce3e39c0ca473c6a6a36f4609c917",
     "url": "/andre-miranda-website/index.html"
   },
   {
-    "revision": "108880e899da6416d44f",
+    "revision": "4aa4e9a06c5e2f445885",
     "url": "/andre-miranda-website/static/css/main.e4820578.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/andre-miranda-website/static/js/2.a5d810e3.chunk.js"
   },
   {
-    "revision": "108880e899da6416d44f",
-    "url": "/andre-miranda-website/static/js/main.49a32caf.chunk.js"
+    "revision": "4aa4e9a06c5e2f445885",
+    "url": "/andre-miranda-website/static/js/main.9359dedf.chunk.js"
   },
   {
     "revision": "2457ac1cb4b72c7543b5",
