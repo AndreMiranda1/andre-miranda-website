@@ -35,7 +35,7 @@ const PersonalProjects = props => {
         <h4>Cleverti Talks</h4>
         <p>
           Cleverti promote internal talks on diverse topics, where I presented a few on Machine Learning.
-          One of them is available on <a rel="noopener noreferrer" target="_blank" className={classes.Link} href="https://youtu.be/BiNT_KlTolk">YouTube</a>.
+          Two of them are available on YouTube, one about <a rel="noopener noreferrer" target="_blank" className={classes.Link} href="https://youtu.be/BiNT_KlTolk">Image Recognition</a> and the other on <a rel="noopener noreferrer" target="_blank" className={classes.Link} href="https://youtu.be/H9u-3oPz8ZU">Self-Driving Cars</a>.
         </p>
       </div>
 

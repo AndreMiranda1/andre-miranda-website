@@ -28,8 +28,8 @@ const Skills = props => {
           right after finish my university degrees. Due to my interest in Software and Web Development, I started
           learning (mostly self-learned) new frameworks around Backend Development. As my motivation
           continued to rise on these subject, I felt that I had to learn Frontend Development as well in order to
-          create complete solutions. During all these periods, I learned some basics on DevOps but it's where I have
-          more space to progress, and that's what I'm already doing by enrolling online courses on the subject.
+          create complete solutions.
+          Recently I completed a course on DevOps, where I gained more knowledge on Docker, Kubernetes, AWS and Google Cloud Services.
           <br />
           <br />
           And this is my path to become an outstanding FullStack Dev!
@@ -92,6 +92,7 @@ const Skills = props => {
             <li>Docker-Compose</li>
             <li>Kubernetes</li>
             <li>Gitlab CI/CD</li>
+            <li>Travis CI</li>
             <li>Google Cloud Services</li>
             <li>Linux</li>
             <li>Git</li>
