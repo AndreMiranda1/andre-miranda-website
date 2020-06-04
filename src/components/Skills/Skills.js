@@ -13,6 +13,7 @@ const Skills = props => {
         <p>
           My greatest skill is a result of my personality and <NavLink to="/background">background</NavLink>.
           My logical, analytic and methodical way of approaching problems, makes me good Problem Solver.
+          I always push my self to evolve so I'm always in for a new challenge.
           <br />
           <br />
           The environment and tools may vary, although, in abstraction the problems tend to share the
@@ -26,10 +27,10 @@ const Skills = props => {
           <br />
           Now more concretely on my skills: I started using Python for Machine Learning and Data Science solutions,
           right after finish my university degrees. Due to my interest in Software and Web Development, I started
-          learning (mostly self-learned) new frameworks around Backend Development. As my motivation
+          learning (mostly self-taught) new frameworks around Backend Development. As my motivation
           continued to rise on these subject, I felt that I had to learn Frontend Development as well in order to
           create complete solutions.
-          Recently I completed a course on DevOps, where I gained more knowledge on Docker, Kubernetes, AWS and Google Cloud Services.
+          I added more knowledge on DevOps, using on CI&CD, Docker, Kubernetes, AWS and Google Cloud Services.
           <br />
           <br />
           And this is my path to become an outstanding FullStack Dev!
@@ -40,23 +41,11 @@ const Skills = props => {
           <ul>
             <li>Adaptable</li>
             <li>Team Player</li>
+            <li>Competitive</li>
             <li>Planning</li>
             <li>Objective</li>
             <li>Resourceful</li>
             <li>Curious</li>
-          </ul>
-        </Collapsible>
-        <Collapsible title="Machine Learning & Data Science">
-          <ul>
-            <li>Pandas</li>
-            <li>Matplotlib</li>
-            <li>Scikit Learn</li>
-            <li>Keras</li>
-            <li>Neural Networks</li>
-            <li>Image Recognition</li>
-            <li>NLP</li>
-            <li>Optimization</li>
-            <li>Classification Problems</li>
           </ul>
         </Collapsible>
         <Collapsible title="Backend">
@@ -68,7 +57,7 @@ const Skills = props => {
             <li>Flask</li>
             <li>OpenAPI</li>
             <li>PostgreSQL + MySQL</li>
-            <li>Git</li>
+            <li>Airflow</li>
             <li>Unit Tests</li>
             <li>DB ORM</li>
             <li>Linux</li>
@@ -96,6 +85,19 @@ const Skills = props => {
             <li>Google Cloud Services</li>
             <li>Linux</li>
             <li>Git</li>
+          </ul>
+        </Collapsible>
+        <Collapsible title="Machine Learning & Data Science">
+          <ul>
+            <li>Pandas</li>
+            <li>Matplotlib</li>
+            <li>Scikit Learn</li>
+            <li>Keras</li>
+            <li>Neural Networks</li>
+            <li>Image Recognition</li>
+            <li>NLP</li>
+            <li>Optimization</li>
+            <li>Classification Problems</li>
           </ul>
         </Collapsible>
       </span>

@@ -20,7 +20,8 @@ const Bio = props => {
         I'm {calculateAge()} years old and I was born in the sunny and beautiful Portugal.
       <br />
       <br />
-        Curious by Nature, I always enjoy learning new stuff and getting things done.
+        Getting things done and solving problems are my biggest strengths.
+        Curious by Nature, I always enjoy learning new subjects and technologies.
         Since I can remember, I've been seeking for answers in all range of topics.
       <br />
       <br />

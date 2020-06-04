@@ -19,6 +19,9 @@ const LandingPage = props => {
               Welcome to my page, here you'll find some information about me, what I've been doing and latest projects.
               <br />
               <br />
+              Getting things done and solving problems are my biggest strengths.
+              <br />
+              <br />
               If you're looking for a resourceful Full Stack Engineer with an Analytics background to help you solving your problems,
              implementing your ideas and make things happen you should stick around!
            </p>

@@ -4,11 +4,10 @@
   "private": true,
   "homepage": "https://andremiranda1.github.io/andre-miranda-website/",
   "dependencies": {
-    "gh-pages": "^2.1.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "3.1.1",
+    "react-scripts": "^3.4.1",
     "react-social-icons": "^4.1.0"
   },
   "scripts": {
@@ -33,5 +32,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }
