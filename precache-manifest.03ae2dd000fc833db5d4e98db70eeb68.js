@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f5a9d448072c6f65dfad92932a0698e2",
+    "revision": "f814106cccea984ae983aafaa6ab7222",
     "url": "/andre-miranda-website/index.html"
   },
   {
-    "revision": "4033f42ba0414e5d2b0e",
-    "url": "/andre-miranda-website/static/css/main.e4820578.chunk.css"
+    "revision": "17ba5dc3e59ea283d35d",
+    "url": "/andre-miranda-website/static/css/main.f000eb09.chunk.css"
   },
   {
-    "revision": "e6ea822ad4277d99282a",
-    "url": "/andre-miranda-website/static/js/2.a5d810e3.chunk.js"
+    "revision": "cfbfd08ee9ef323ceed9",
+    "url": "/andre-miranda-website/static/js/2.0efae18b.chunk.js"
   },
   {
-    "revision": "4033f42ba0414e5d2b0e",
-    "url": "/andre-miranda-website/static/js/main.c41be0c3.chunk.js"
+    "revision": "507c4436aa55e48136618e82a79cbf78",
+    "url": "/andre-miranda-website/static/js/2.0efae18b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2457ac1cb4b72c7543b5",
-    "url": "/andre-miranda-website/static/js/runtime~main.f9d52656.js"
+    "revision": "17ba5dc3e59ea283d35d",
+    "url": "/andre-miranda-website/static/js/main.06936d52.chunk.js"
+  },
+  {
+    "revision": "afa87c1199be70193066",
+    "url": "/andre-miranda-website/static/js/runtime-main.ecd36059.js"
   },
   {
     "revision": "88d2674aeda2132ba4d0ed155a2cafd2",
