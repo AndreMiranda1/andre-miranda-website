@@ -13,14 +13,39 @@ const PersonalProjects = props => {
       <p>
         Here I'll expose a bit of what I've been doing apart from work.
         <br />
-        Besides what it's here exposed I'm continuously learning, right now
-        I'm focused on the DevOps field, where I lack some knowledge.
+        Besides what it's here exposed I'm continuously learning.
       </p>
+
+      <div className={classes.Project}>
+        <h4>Website for Monitoring Prices - End to end developed by me</h4>
+        <p>
+            You can find a demonstration here:
+            <br />
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe title="vigilante-video" width="560" height="315" src="https://www.youtube.com/embed/FnzAmVVFAls" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <br />
+            If it's offline at the moment it may happen that the credits in the cloud are over :( ping me for more details!
+            <br />
+            In this website you can monitor prices for the products that you wish and get notified when it reaches the best price for you.
+            <br />
+            It was fully developed by me with the following stack:
+            <ul>
+                <li>Python - Django</li>
+                <li>React</li>
+                <li>Bootstrap</li>
+                <li>PostgreSQL</li>
+                <li>Docker</li>
+                <li>Kubernetes</li>
+                <li>Google Cloud / MS Azure</li>
+            </ul>
+        </p>
+      </div>
 
       <div className={classes.Project}>
         <h4>My Personal Website</h4>
         <p>
-          If you're here you're already aware of it, of course.
+          You're here you're already aware of it, of course.
           <br />
           This was totally developed by me, it's built with React and my first project
           using this framework after completing an online course on that.

@@ -22,13 +22,16 @@ const ProfessionalExperience = props => {
           <span className={classes.DateRange}>April 2019 - Present</span>
           <span className={classes.ExperienceDescriptionText}>
             <p>
-              Team Leader in a remote team working on a Copernicus Contributing Mission for the European Space Agency.
+              Team Leader in a remote team working in the scope of the European Space Agency.
               <br />
               <br />
-              Our team was mainly focused on developing a micro-service based system, with a UI
+              On our first project the team was mainly focused on developing a micro-service based system, with a UI
               for data ingestion and monitoring. The system integrated some data processing
-              flows with external APIs and FTP servers.
-              We adopted the SCRUM methodology.
+              flows with external APIs and FTP servers. We adopted the SCRUM methodology. The project was integrated in a Copernicus Contributing Mission.
+              <br />
+              On the current project our job is to work closely with Data Scientists in order to deploy their code in services that are supposed to run in Cloud Environments.
+              It's also our responsibility to develop custom tools to help on the Data Science tasks.
+              We're exposed a lot to GIS concepts and satellite image processing.
               <br />
               <br />
               Cleverti promotes internal talks on diverse topics, where I presented a few on Machine Learning.
