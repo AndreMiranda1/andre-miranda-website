@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/andre-miranda-website/static/css/main.f000eb09.chunk.css",
-    "main.js": "/andre-miranda-website/static/js/main.06936d52.chunk.js",
-    "main.js.map": "/andre-miranda-website/static/js/main.06936d52.chunk.js.map",
+    "main.js": "/andre-miranda-website/static/js/main.770d7947.chunk.js",
+    "main.js.map": "/andre-miranda-website/static/js/main.770d7947.chunk.js.map",
     "runtime-main.js": "/andre-miranda-website/static/js/runtime-main.ecd36059.js",
     "runtime-main.js.map": "/andre-miranda-website/static/js/runtime-main.ecd36059.js.map",
-    "static/js/2.0efae18b.chunk.js": "/andre-miranda-website/static/js/2.0efae18b.chunk.js",
-    "static/js/2.0efae18b.chunk.js.map": "/andre-miranda-website/static/js/2.0efae18b.chunk.js.map",
+    "static/js/2.6b3086f8.chunk.js": "/andre-miranda-website/static/js/2.6b3086f8.chunk.js",
+    "static/js/2.6b3086f8.chunk.js.map": "/andre-miranda-website/static/js/2.6b3086f8.chunk.js.map",
     "index.html": "/andre-miranda-website/index.html",
-    "precache-manifest.03ae2dd000fc833db5d4e98db70eeb68.js": "/andre-miranda-website/precache-manifest.03ae2dd000fc833db5d4e98db70eeb68.js",
+    "precache-manifest.ca48e330774a96e7b3c1ca7240693e0a.js": "/andre-miranda-website/precache-manifest.ca48e330774a96e7b3c1ca7240693e0a.js",
     "service-worker.js": "/andre-miranda-website/service-worker.js",
     "static/css/main.f000eb09.chunk.css.map": "/andre-miranda-website/static/css/main.f000eb09.chunk.css.map",
-    "static/js/2.0efae18b.chunk.js.LICENSE.txt": "/andre-miranda-website/static/js/2.0efae18b.chunk.js.LICENSE.txt",
+    "static/js/2.6b3086f8.chunk.js.LICENSE.txt": "/andre-miranda-website/static/js/2.6b3086f8.chunk.js.LICENSE.txt",
     "static/media/Andre_Miranda.jpg": "/andre-miranda-website/static/media/Andre_Miranda.88d2674a.jpg",
     "static/media/bpi.png": "/andre-miranda-website/static/media/bpi.618d6160.png",
     "static/media/cleverti.png": "/andre-miranda-website/static/media/cleverti.9174068b.png",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ecd36059.js",
-    "static/js/2.0efae18b.chunk.js",
+    "static/js/2.6b3086f8.chunk.js",
     "static/css/main.f000eb09.chunk.css",
-    "static/js/main.06936d52.chunk.js"
+    "static/js/main.770d7947.chunk.js"
   ]
 }

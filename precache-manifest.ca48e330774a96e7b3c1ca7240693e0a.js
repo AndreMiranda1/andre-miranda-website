@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f814106cccea984ae983aafaa6ab7222",
+    "revision": "f2d3ed312281b0469903283612f820c0",
     "url": "/andre-miranda-website/index.html"
   },
   {
-    "revision": "17ba5dc3e59ea283d35d",
+    "revision": "3748352b1a1e19abab1f",
     "url": "/andre-miranda-website/static/css/main.f000eb09.chunk.css"
   },
   {
-    "revision": "cfbfd08ee9ef323ceed9",
-    "url": "/andre-miranda-website/static/js/2.0efae18b.chunk.js"
+    "revision": "6ffe6dda31fe3af9446e",
+    "url": "/andre-miranda-website/static/js/2.6b3086f8.chunk.js"
   },
   {
     "revision": "507c4436aa55e48136618e82a79cbf78",
-    "url": "/andre-miranda-website/static/js/2.0efae18b.chunk.js.LICENSE.txt"
+    "url": "/andre-miranda-website/static/js/2.6b3086f8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "17ba5dc3e59ea283d35d",
-    "url": "/andre-miranda-website/static/js/main.06936d52.chunk.js"
+    "revision": "3748352b1a1e19abab1f",
+    "url": "/andre-miranda-website/static/js/main.770d7947.chunk.js"
   },
   {
     "revision": "afa87c1199be70193066",

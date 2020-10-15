@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/andre-miranda-website/precache-manifest.03ae2dd000fc833db5d4e98db70eeb68.js"
+  "/andre-miranda-website/precache-manifest.ca48e330774a96e7b3c1ca7240693e0a.js"
 );
 
 self.addEventListener('message', (event) => {
