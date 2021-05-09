@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/andre-miranda-website/static/css/main.20540d0d.chunk.css",
-    "main.js": "/andre-miranda-website/static/js/main.e2c91ded.chunk.js",
-    "main.js.map": "/andre-miranda-website/static/js/main.e2c91ded.chunk.js.map",
+    "main.js": "/andre-miranda-website/static/js/main.2faa148a.chunk.js",
+    "main.js.map": "/andre-miranda-website/static/js/main.2faa148a.chunk.js.map",
     "runtime-main.js": "/andre-miranda-website/static/js/runtime-main.ecd36059.js",
     "runtime-main.js.map": "/andre-miranda-website/static/js/runtime-main.ecd36059.js.map",
     "static/js/2.28553115.chunk.js": "/andre-miranda-website/static/js/2.28553115.chunk.js",
     "static/js/2.28553115.chunk.js.map": "/andre-miranda-website/static/js/2.28553115.chunk.js.map",
     "index.html": "/andre-miranda-website/index.html",
-    "precache-manifest.8a8d4774cec096740aef7ff2d37c5daf.js": "/andre-miranda-website/precache-manifest.8a8d4774cec096740aef7ff2d37c5daf.js",
+    "precache-manifest.ed117cb81d1943011a8840ca20a158fa.js": "/andre-miranda-website/precache-manifest.ed117cb81d1943011a8840ca20a158fa.js",
     "service-worker.js": "/andre-miranda-website/service-worker.js",
     "static/css/main.20540d0d.chunk.css.map": "/andre-miranda-website/static/css/main.20540d0d.chunk.css.map",
     "static/js/2.28553115.chunk.js.LICENSE.txt": "/andre-miranda-website/static/js/2.28553115.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.ecd36059.js",
     "static/js/2.28553115.chunk.js",
     "static/css/main.20540d0d.chunk.css",
-    "static/js/main.e2c91ded.chunk.js"
+    "static/js/main.2faa148a.chunk.js"
   ]
 }
