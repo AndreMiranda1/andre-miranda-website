@@ -1,6 +1,7 @@
 import React from 'react';
 
 import classes from './ProfessionalExperience.module.css';
+import TNXImage from '../../assets/tnx.png';
 import ClevertiImage from '../../assets/cleverti.png';
 import OptylonImage from '../../assets/optylon.jpg';
 import CloserImage from '../../assets/closer.png';
@@ -12,6 +13,23 @@ const ProfessionalExperience = props => {
   return(
     <div className={classes.ProfessionalExperience}>
       <h2>Professional Experience</h2>
+      
+      <div className={classes.Experience}>
+        <div className={classes.ExperienceImage}>
+          <img src={TNXImage} alt="TNX" />
+        </div>
+        <div className={classes.ExperienceDescription}>
+          <h4>Software Developer - TNX Logistics</h4>
+          <span className={classes.DateRange}>January 2021 - Present</span>
+          <span className={classes.ExperienceDescriptionText}>
+            <p>
+              <a rel="noopener noreferrer" target="_blank" className={classes.Link} href="https://www.tnx-logistics.com/">TNX</a> runs a procurement platform that connects Cargo Owners with Carriers.
+              <br />
+              Being a member of a small teams exposes me to a wide range of challenges and tasks, here I contribute from general Webdev to Machine Learning models.
+            </p>
+          </span>
+        </div>
+      </div>
 
       <div className={classes.Experience}>
         <div className={classes.ExperienceImage}>
@@ -19,7 +37,7 @@ const ProfessionalExperience = props => {
         </div>
         <div className={classes.ExperienceDescription}>
           <h4>Software Developer - Cleverti</h4>
-          <span className={classes.DateRange}>April 2019 - Present</span>
+          <span className={classes.DateRange}>April 2019 - December 2020</span>
           <span className={classes.ExperienceDescriptionText}>
             <p>
               Team Leader in a remote team working in the scope of the European Space Agency.
@@ -29,9 +47,9 @@ const ProfessionalExperience = props => {
               for data ingestion and monitoring. The system integrated some data processing
               flows with external APIs and FTP servers. We adopted the SCRUM methodology. The project was integrated in a Copernicus Contributing Mission.
               <br />
-              On the current project our job is to work closely with Data Scientists in order to deploy their code in services that are supposed to run in Cloud Environments.
-              It's also our responsibility to develop custom tools to help on the Data Science tasks.
-              We're exposed a lot to GIS concepts and satellite image processing.
+              On my last project our job was to work closely with Data Scientists in order to deploy their code in services that are supposed to run in Cloud Environments.
+              It was also our responsibility to develop custom tools to help on the Data Science tasks.
+              We were exposed a lot to GIS concepts and satellite image processing.
               <br />
               <br />
               Cleverti promotes internal talks on diverse topics, where I presented a few on Machine Learning.

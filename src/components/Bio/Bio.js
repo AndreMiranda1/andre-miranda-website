@@ -28,7 +28,7 @@ const Bio = props => {
       I have the will to try new challenges, pushing myself to grow and be a better person everyday.
       <br />
       <br />
-        I'm currently living in Lisbon but it's in <a rel="noopener noreferrer" target="_blank" className={classes.Link} href="https://goo.gl/maps/xxbrgYwRgpQg1ACP6">Giões</a> where I like to spend my free time.
+        Working as a remote developer allows me to be living between Lisbon and <a rel="noopener noreferrer" target="_blank" className={classes.Link} href="https://goo.gl/maps/xxbrgYwRgpQg1ACP6">Giões</a> where I like to spend my free time.
         Located between Algarve and Alentejo, this small village is my grandfather's birthplace
          and where I love to be close to Nature. There I use to go fishing in my kayak, hiking,
           and hang with my family and friends.
@@ -66,7 +66,7 @@ const Bio = props => {
             I have the will to try new challenges, pushing myself to grow and be a better person everyday.
             <br />
             <br />
-            I'm currently living in Lisbon but it's in <a rel="noopener noreferrer" target="_blank" className={classes.Link} href="https://goo.gl/maps/xxbrgYwRgpQg1ACP6">Giões</a> where I like to spend my free time.
+            Working as a remote developer allows me to be living between Lisbon and <a rel="noopener noreferrer" target="_blank" className={classes.Link} href="https://goo.gl/maps/xxbrgYwRgpQg1ACP6">Giões</a> where I like to spend my free time.
             Located between Algarve and Alentejo, this small village is my grandfather's birthplace
              and where I love to be close to Nature. There I use to go fishing in my kayak, hiking,
               and hang with my family and friends.
