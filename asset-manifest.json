@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/andre-miranda-website/static/css/main.f000eb09.chunk.css",
-    "main.js": "/andre-miranda-website/static/js/main.770d7947.chunk.js",
-    "main.js.map": "/andre-miranda-website/static/js/main.770d7947.chunk.js.map",
+    "main.css": "/andre-miranda-website/static/css/main.20540d0d.chunk.css",
+    "main.js": "/andre-miranda-website/static/js/main.e2c91ded.chunk.js",
+    "main.js.map": "/andre-miranda-website/static/js/main.e2c91ded.chunk.js.map",
     "runtime-main.js": "/andre-miranda-website/static/js/runtime-main.ecd36059.js",
     "runtime-main.js.map": "/andre-miranda-website/static/js/runtime-main.ecd36059.js.map",
-    "static/js/2.6b3086f8.chunk.js": "/andre-miranda-website/static/js/2.6b3086f8.chunk.js",
-    "static/js/2.6b3086f8.chunk.js.map": "/andre-miranda-website/static/js/2.6b3086f8.chunk.js.map",
+    "static/js/2.28553115.chunk.js": "/andre-miranda-website/static/js/2.28553115.chunk.js",
+    "static/js/2.28553115.chunk.js.map": "/andre-miranda-website/static/js/2.28553115.chunk.js.map",
     "index.html": "/andre-miranda-website/index.html",
-    "precache-manifest.ca48e330774a96e7b3c1ca7240693e0a.js": "/andre-miranda-website/precache-manifest.ca48e330774a96e7b3c1ca7240693e0a.js",
+    "precache-manifest.8a8d4774cec096740aef7ff2d37c5daf.js": "/andre-miranda-website/precache-manifest.8a8d4774cec096740aef7ff2d37c5daf.js",
     "service-worker.js": "/andre-miranda-website/service-worker.js",
-    "static/css/main.f000eb09.chunk.css.map": "/andre-miranda-website/static/css/main.f000eb09.chunk.css.map",
-    "static/js/2.6b3086f8.chunk.js.LICENSE.txt": "/andre-miranda-website/static/js/2.6b3086f8.chunk.js.LICENSE.txt",
+    "static/css/main.20540d0d.chunk.css.map": "/andre-miranda-website/static/css/main.20540d0d.chunk.css.map",
+    "static/js/2.28553115.chunk.js.LICENSE.txt": "/andre-miranda-website/static/js/2.28553115.chunk.js.LICENSE.txt",
     "static/media/Andre_Miranda.jpg": "/andre-miranda-website/static/media/Andre_Miranda.88d2674a.jpg",
     "static/media/bpi.png": "/andre-miranda-website/static/media/bpi.618d6160.png",
     "static/media/cleverti.png": "/andre-miranda-website/static/media/cleverti.9174068b.png",
     "static/media/gioes.jpg": "/andre-miranda-website/static/media/gioes.57fddf35.jpg",
+    "static/media/tnx.png": "/andre-miranda-website/static/media/tnx.56af2fab.png",
     "static/media/ulisboa.png": "/andre-miranda-website/static/media/ulisboa.333b4673.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ecd36059.js",
-    "static/js/2.6b3086f8.chunk.js",
-    "static/css/main.f000eb09.chunk.css",
-    "static/js/main.770d7947.chunk.js"
+    "static/js/2.28553115.chunk.js",
+    "static/css/main.20540d0d.chunk.css",
+    "static/js/main.e2c91ded.chunk.js"
   ]
 }
